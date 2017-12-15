@@ -1,1 +1,3 @@
 # nhanes-disease-classifier
+
+In this project, we build a classifier to predict whether or not a given person has had coronary heart disease in his or her lifetime. We do so by us- ing the formidable NHANES patient health data set, cleaning this data extensively for our purposes, and training a deep neural network on it. This pa- per discusses our data processing methods, our investigation of various ma- chine learning models, our chosen deep learning process, and our preliminary results. Our model achieves success while leaving room for further improve- ments. We discuss possibilities for future expansion of this research, such as optimizing DNN hyperparameters and classifying on additional diseases.
