@@ -6,7 +6,7 @@ In this project, we build a classifier to predict whether or not a given person 
 See `predicting-cardiac-disease.pdf` for the full academic paper.
 
 ## Usage
-To use this disease classifier, simply run:
+To use this disease classifier, simply enter the terminal and run:
 ```
-python deep-classifier-master.py
+python deep-classifier.py
 ```
